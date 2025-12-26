@@ -1,0 +1,12 @@
+REPO_TAGLINE: Antenna theory • radiation patterns • electromagnetic waves
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SEL0344-Antenas
+
+BG_1: "#0E1A14"
+BG_2: "#1F3D2B"
+TEXT_MAIN: "#E6FFF3"
+TEXT_MUTED: "#9BCFB8"
+ACCENT: "#4ADE80"
+CARD_RADIUS: "16"
