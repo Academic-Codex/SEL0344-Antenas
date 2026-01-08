@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0344-Antenas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:14:22.940295Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:48:17.885900Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
