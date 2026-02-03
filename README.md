@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0344-Antenas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:22.887079Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEL0344-Antenas?utm_source=SEL0344-Antenas&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:25.449379Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
